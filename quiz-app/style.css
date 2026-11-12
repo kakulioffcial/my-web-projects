@@ -1,0 +1,30 @@
+body {
+    margin: 40px;
+    font-family: sans-serif;
+}
+
+.quiz-box {
+    width: 350px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+h2 {
+    color: #333;
+}
+
+.opt-btn {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+
+#nextBtn {
+    margin-top: 15px;
+    padding: 8px 12px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

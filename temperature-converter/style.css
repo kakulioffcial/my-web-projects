@@ -1,0 +1,36 @@
+body {
+    margin: 30px;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: #333;
+}
+
+input {
+    padding: 5px;
+    margin: 5px 0;
+    width: 200px;
+    display: block;
+}
+
+select {
+    padding: 5px;
+    margin: 5px 0;
+    width: 212px;
+    display: block;
+}
+
+button {
+    padding: 6px 12px;
+    margin-top: 5px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 15px;
+    font-weight: bold;
+}
